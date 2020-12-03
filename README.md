@@ -10,4 +10,4 @@ Open http://localhost:3000
 ### `npm run build`
 Builds the app for production to the build folder.
 
-This website is also deployed with url: https://githubsearcher1.netlify.app/
+This website is also deployed. Its url: https://githubsearcher1.netlify.app/
